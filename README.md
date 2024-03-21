@@ -1,1 +1,2 @@
-# Predictive Maintenance in Industrial Systems: A Data-Driven AI Approach
+# Predictive Maintenance in Industrial Systems
+# A Data-Driven AI Approach
